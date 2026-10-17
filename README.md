@@ -9,7 +9,6 @@ Proyek ini menggunakan data kurs historis harian dari Investing.com untuk period
 ```text
 hybrid-svar-xgboost-jpy-krw-idr/
 ├── README.md
-├── GIT_BASH_GUIDE.md
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
@@ -21,8 +20,6 @@ hybrid-svar-xgboost-jpy-krw-idr/
     ├── README.md
     └── paper-hybrid-svar-xgboost-jpy-krw-idr.pdf
 ```
-
-Upload repository lewat Git Bash mengikuti [`GIT_BASH_GUIDE.md`](GIT_BASH_GUIDE.md).
 
 ## Jalankan di Google Colab
 
